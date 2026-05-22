@@ -2,7 +2,7 @@
 
 **Module:** ITBDA4-14 | NQF Level 8  
 **Author:** Matshepo Tshabangu  
-**Institution:** University of the Witwatersrand  
+**Institution:** Eduvos  
 
 ---
 
@@ -149,4 +149,4 @@ This project was completed individually in accordance with academic integrity po
 
 ---
 
-*University of the Witwatersrand | BSc Computer Science | 2025*
+*Eduvos | BSc IT (Hons) Data Science | 2026*
